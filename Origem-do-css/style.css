@@ -1,0 +1,13 @@
+/* importar font  ultilizando @import e o link fonts.google.com */
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+
+h1 {
+  color: blue;
+  font-family: 'Itim', cursive;
+}
+
+strong {
+  color: red;
+  font-family: 'Itim', cursive;
+}

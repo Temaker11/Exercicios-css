@@ -1,0 +1,43 @@
+/* Anatomia */
+
+* {  /*  (*) todos dos elementos */
+  margin: 0; /*  Muda magin do documento  */
+}
+
+#container {
+  width: 200px; /*  Largura  */
+}
+
+.m-40 {
+  Margin: 40px; /*  Muda magin do documento  */
+}
+
+h1, h2 {
+  color: blue;  /* cor */
+  font-size: 60px; /* Tamanho da Fonte */
+  background: gray;/* Tela de Fundo */
+}
+
+/* 
+*Delector
+*Selector
+*Properties
+*Property Value
+*/
+
+
+/* Selectors */
+
+/* Conecta um elemento HTML com o CSS */
+
+/* 
+* Global selector '*'
+* Element/Type selector 'h1, h2, p, div'
+* ID Selector '#box, #container'
+* Class Selector '.Red, .m-4'
+* Attribute selector, Pseudo-class, Pseudo-element, e outros
+*  
+*/
+
+
+
